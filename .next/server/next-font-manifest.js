@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/hashashin/Documents/twinsister/src/app/layout":["static/media/42f131834de1b4dc-s.p.woff2","static/media/f388ce6667079c43-s.p.woff2","static/media/e400baae650c21fc-s.p.woff2","static/media/c7b4fd33734710f7-s.p.woff2","static/media/fc624604eae89eb3-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
